@@ -1,0 +1,95 @@
+commit 3a489067737c96922d3224196df736040529d733
+Author: Alexandre Jr <alexandrep.souzzza@gmail.com>
+Date:   Mon Jul 21 23:12:12 2025 -0400
+
+    refactor: Security
+
+commit 27f5532f976978c113222a3355da30aeaf5194d2
+Author: Alexandre Jr <alexandrep.souzzza@gmail.com>
+Date:   Mon Jul 21 22:52:27 2025 -0400
+
+    feat: add EventDetails
+
+commit 21b77dc0bb019a4dd480e95c5aca4da00c458750
+Author: Alexandre Jr <alexandrep.souzzza@gmail.com>
+Date:   Mon Jul 21 18:48:47 2025 -0400
+
+    feat: add get filtered events
+
+commit 82c7cf725c1dd859ecee80e0ccd4e20c04656419
+Author: Alexandre Jr <alexandrep.souzzza@gmail.com>
+Date:   Mon Jul 21 18:11:49 2025 -0400
+
+    feat: save event address
+
+commit fe523780f2bc2d9a07d4daed291aa19ee9a38b73
+Author: Alexandre Jr <alexandrep.souzzza@gmail.com>
+Date:   Mon Jul 21 18:05:40 2025 -0400
+
+    feat: add event methods
+
+commit cf541efd366b861d78ebdf2b126a0e30c99e0d6e
+Author: Alexandre Jr <alexandrep.souzzza@gmail.com>
+Date:   Mon Jul 21 17:17:07 2025 -0400
+
+    feat: add coupon create method
+
+commit a8e3cfc0a708d2067fd14981099eb5c5018a909b
+Author: Alexandre Jr <alexandrep.souzzza@gmail.com>
+Date:   Mon Jul 21 00:29:42 2025 -0400
+
+    refactor: configure aws
+
+commit b369472d19eca787dd5e31d6c4f32ebdf538c5d8
+Author: Alexandre Jr <alexandrep.souzzza@gmail.com>
+Date:   Mon Jul 21 00:29:20 2025 -0400
+
+    feat: add eventController
+
+commit ca4b2f9b7bbe19c4d875661ed5dcb5b9f6373fb3
+Author: Alexandre Jr <alexandrep.souzzza@gmail.com>
+Date:   Sun Jul 20 23:13:24 2025 -0400
+
+    feat: add s3 function in service
+
+commit 577b9a48a282ed3a217cf56031177886061ae624
+Author: Alexandre Jr <alexandrep.souzzza@gmail.com>
+Date:   Sun Jul 20 22:43:55 2025 -0400
+
+    feat: configure aws s3
+
+commit f13f1afbae0ab6e39a2cf1d93e9085e7e95e0ee9
+Author: Alexandre Jr <alexandrep.souzzza@gmail.com>
+Date:   Sun Jul 20 22:41:19 2025 -0400
+
+    feat: add Event Service
+
+commit 6f47f2f3aebcde4015146e6c6b201b0e0abd41be
+Author: Alexandre Jr <alexandrep.souzzza@gmail.com>
+Date:   Sun Jul 20 22:29:58 2025 -0400
+
+    feat: add migrations
+
+commit 58974bba958a5f4ab492c6e2f00d8e7f58ebfd35
+Author: Alexandre Jr <alexandrep.souzzza@gmail.com>
+Date:   Sun Jul 20 21:38:08 2025 -0400
+
+    feat: add repositories
+
+commit 7fe836a65bdcbc774f59eb7e1b39d73368a7f08a
+Author: Alexandre Jr <alexandrep.souzzza@gmail.com>
+Date:   Sun Jul 20 21:33:26 2025 -0400
+
+    refactor: move address to repository
+
+commit 1bfd695853060e34bbe02231818495e7690243f2
+Author: Alexandre Jr <alexandrep.souzzza@gmail.com>
+Date:   Sun Jul 20 21:32:32 2025 -0400
+
+    feat: creating entities
+
+commit 510032a3298a4d6d52ba9a91da92e64fa0457e02
+Author: Alexandre Jr <alexandrep.souzzza@gmail.com>
+Date:   Sun Jul 20 21:32:08 2025 -0400
+
+    feat: first commit
